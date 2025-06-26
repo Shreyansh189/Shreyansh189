@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **WanderLust – A travel listing web app using Node.js, MongoDB, and Express**
 
-- 🌱 I’m currently learning **🌱 I’m currently learning React.js, MongoDB Aggregation, DSA with C++, and building Full Stack GenAI apps using OpenAI APIs**
+- 🌱 I’m currently learning React.js, MongoDB Aggregation, DSA with C++, and building Full Stack GenAI apps using OpenAI APIs**
 
 - 🤝 I’m looking for help with **Integrating OpenAI APIs and AI-based career assistant features**
 
