@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **shreyansh0611@gmail.com**
 
-- ⚡ Fun fact **6. ```markdown ⚡ Fun fact Turns out “coding” pays better than “dreaming,” so here I am.**
+-  ⚡ Fun fact Turns out “coding” pays better than “dreaming,” so here I am.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
