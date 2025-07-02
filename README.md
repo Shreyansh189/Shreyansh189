@@ -13,7 +13,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyansh-ghanekar-166071256/)  
 [![Twitter / X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/shreyansh061)  
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shreyansh0611@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shreyansh0611@gmail.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-222222?style=flat&logo=google-chrome&logoColor=white)](https://shreyansh-port.lovable.app)
 
 ---
 
@@ -35,7 +36,6 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
 ### 🧠 Other Tools  
-
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat&logo=npm&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
@@ -51,5 +51,3 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyansh189&theme=radical&layout=compact)
 
 ---
-
-
