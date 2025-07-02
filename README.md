@@ -47,7 +47,7 @@
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shreyansh189&theme=radical&hide_border=false)  
-![Streak Stats](https://streak-stats.demolab.com?user=Shreyansh189&theme=radical&hide_border=false)  
+![GitHub Streak](https://streak-stats.vercel.app/?user=Shreyansh189&theme=radical&hide_border=false)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyansh189&theme=radical&layout=compact)
 
 ---
