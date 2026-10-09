@@ -1,13 +1,36 @@
-## 👋 About Me
+Hey, I'm Shreyansh Ghanekar 👋
 
-- 🔭 Currently building **WanderLust** – a full-stack travel website using Node.js, Express, and MongoDB.  
-- 🤝 Looking to collaborate on beginner-friendly full-stack or AI + web projects.  
-- 🧠 Currently learning **React.js**, **MongoDB Aggregation**, and **Full Stack GenAI**.  
-- 🚀 Exploring **OpenAI APIs**, **LangChain**, and real-world GenAI integrations.  
-- 💬 Ask me about JavaScript, Express, React, or how to debug like a Google ninja.  
-- ⚡ Fun fact: I didn’t choose coding for passion — I chose it because **being broke sucks** 😅  
+Full Stack Developer | MERN Stack | Exploring Generative AI 🤖
+
+I'm a Computer Science graduate passionate about building practical web applications and exploring how AI can make software more useful.
+
+🔭 Currently building: FundFlow — a full-stack finance management application using the MERN stack.
+
+💻 Building with: React.js, Node.js, Express.js, MongoDB, and REST APIs.
+🧠 Currently learning: Python, Generative AI, and AI-powered application development.
+🤖 Exploring: OpenAI APIs, LLM integrations, and LangChain.
+🚀 Interested in: Full Stack Development, Software Engineering, and GenAI projects.
+🤝 Open to: Entry-level developer opportunities and collaborative projects.
+⚡ Fun fact: My motivation to code started with wanting to earn money. Somewhere along the way, debugging became a personality trait. 😅 
 
 ---
+🚀 Featured Projects
+
+💸 FundFlow — Finance Management App
+A full-stack application focused on managing personal finances and tracking transactions.
+Tech: React.js · Node.js · Express.js · MongoDB
+
+🎤 InterviewAI — AI-Powered Interview Platform
+A full-stack AI interview platform that generates personalized interview questions from resumes, supports voice-based interviews, and evaluates candidate responses.
+Tech: MERN Stack · OpenAI API · REST APIs · Razorpay
+
+🤖 AI-Powered Code Reviewer
+An AI-powered web application that lets users write code in an interactive editor and receive AI-generated code reviews and suggestions.
+Tech: React.js · Node.js · Express.js · MongoDB · Gemini API · Monaco Editor
+
+🌍 WanderLust — Travel & Listing Platform
+A full-stack travel application for exploring and managing property listings, with map integration and image uploads.
+Tech: Node.js · Express.js · MongoDB · Mongoose · EJS · Cloudinary · Leaflet
 
 ## 🌐 Connect With Me
 
