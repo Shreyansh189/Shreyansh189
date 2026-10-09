@@ -7,30 +7,44 @@ I'm a Computer Science graduate passionate about building practical web applicat
 🔭 Currently building: FundFlow — a full-stack finance management application using the MERN stack.
 
 💻 Building with: React.js, Node.js, Express.js, MongoDB, and REST APIs.
-🧠 Currently learning: Python, Generative AI, and AI-powered application development.
-🤖 Exploring: OpenAI APIs, LLM integrations, and LangChain.
-🚀 Interested in: Full Stack Development, Software Engineering, and GenAI projects.
-🤝 Open to: Entry-level developer opportunities and collaborative projects.
-⚡ Fun fact: My motivation to code started with wanting to earn money. Somewhere along the way, debugging became a personality trait. 😅 
 
----
+🧠 Currently learning: Python, Generative AI, and AI-powered application development.
+
+🤖 Exploring: OpenAI APIs, LLM integrations, and LangChain.
+
+🚀 Interested in: Full Stack Development, Software Engineering, and GenAI projects.
+
+🤝 Open to: Entry-level developer opportunities and collaborative projects.
+
+⚡ Fun fact: My motivation to code started with wanting to earn money. Somewhere along the way, debugging became a personality trait. 😅
+
 🚀 Featured Projects
 
 💸 FundFlow — Finance Management App
+
 A full-stack application focused on managing personal finances and tracking transactions.
+
 Tech: React.js · Node.js · Express.js · MongoDB
 
 🎤 InterviewAI — AI-Powered Interview Platform
+
 A full-stack AI interview platform that generates personalized interview questions from resumes, supports voice-based interviews, and evaluates candidate responses.
+
 Tech: MERN Stack · OpenAI API · REST APIs · Razorpay
 
 🤖 AI-Powered Code Reviewer
+
 An AI-powered web application that lets users write code in an interactive editor and receive AI-generated code reviews and suggestions.
+
 Tech: React.js · Node.js · Express.js · MongoDB · Gemini API · Monaco Editor
 
 🌍 WanderLust — Travel & Listing Platform
+
 A full-stack travel application for exploring and managing property listings, with map integration and image uploads.
+
 Tech: Node.js · Express.js · MongoDB · Mongoose · EJS · Cloudinary · Leaflet
+
+
 
 ## 🌐 Connect With Me
 
