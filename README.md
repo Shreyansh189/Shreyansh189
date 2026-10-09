@@ -1,6 +1,6 @@
-Hey, I'm Shreyansh Ghanekar 👋
+##Hey, I'm Shreyansh Ghanekar 👋
 
-Full Stack Developer | MERN Stack | Exploring Generative AI 🤖
+#Full Stack Developer | MERN Stack | Exploring Generative AI 🤖
 
 I'm a Computer Science graduate passionate about building practical web applications and exploring how AI can make software more useful.
 
